@@ -110,6 +110,7 @@ and ssh.
 ### stabalize the shell
 `$ python3 -c 'import pty;pty.spawn("/bin/bash")'`
 
+### Get root
 `$ cat .bash_history`
 
 `$ sudo -l`
